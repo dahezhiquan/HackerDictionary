@@ -219,7 +219,6 @@
 .az
 .azerbaijan.su
 .azure
-.ba
 .ba.it
 .babia-gora.pl
 .baby
@@ -618,7 +617,6 @@
 .coffee
 .college
 .cologne
-.com
 .com.af
 .com.ag
 .com.ai
@@ -822,7 +820,6 @@
 .cz.it
 .czeladz.pl
 .czest.pl
-.dabur
 .dad
 .dagestan.ru
 .dagestan.su
@@ -1357,7 +1354,6 @@
 .immo
 .immobilien
 .imperia.it
-.in
 .in.ci
 .in.net
 .in.ni
@@ -1499,7 +1495,6 @@
 .kartuzy.pl
 .kaszuby.pl
 .katowice.pl
-.kaufen
 .kazimierz-dolny.pl
 .kddi
 .ke
@@ -1921,7 +1916,6 @@
 .ne.tz
 .ne.ug
 .nec
-.net
 .net.ae
 .net.af
 .net.ag
@@ -3009,7 +3003,6 @@
 .tw.cn
 .tychy.pl
 .tz
-.ua
 .ubank
 .ubs
 .uconnect

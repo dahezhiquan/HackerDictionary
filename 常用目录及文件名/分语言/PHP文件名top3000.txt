@@ -264,7 +264,6 @@
 /admin.jsp
 /admin.php
 /Admin.php
-/admin.php
 /admin.phpx
 /admin/%23m_x%23data.php
 /admin/01.php
@@ -290,7 +289,6 @@
 /admin/admin_addnews.php
 /admin/admin_admin.php
 /Admin/Admin_Admin.php
-/admin/admin_admin.php
 /admin/admin_ads.php
 /admin/admin_allnews.php
 /admin/admin_aspcheck.php
@@ -319,9 +317,6 @@
 /admin/admin_head.php
 /Admin/Admin_Index.php
 /admin/admin_index.php
-/Admin/Admin_Index.php
-/admin/admin_index.php
-/Admin/Admin_Index.php
 /admin/Admin_indexx.php
 /admin/admin_iplock.php
 /admin/admin_league.php
@@ -357,7 +352,6 @@
 /admin/admin_update.php
 /admin/admin_updatetopic.php
 /admin/admin_updateuser.php
-/admin/admin_upfile.php
 /admin/admin_upfile.php
 /admin/admin_upload.php
 /admin/admin_uploadface.php
@@ -533,7 +527,6 @@
 /admin/HTML/admin_login.php
 /admin/htmledit/admin_login.php
 /admin/htmledit/Admin_Login.php
-/admin/htmledit/admin_login.php
 /admin/htmledit/Example/test.php
 /admin/htmleditor/admin_login.php
 /admin/htmleditor/ewebeditor.php
@@ -568,7 +561,6 @@
 /admin/login.html
 /admin/login.php
 /admin/Login.php
-/admin/login.php
 /admin/login1.php
 /admin/login83.php
 /admin/logina.php
@@ -672,7 +664,6 @@
 /admin/southidceditor/popup.php
 /admin/Southidceditor/upload.php
 /admin/SouthidcEditor/Upload.php
-/admin/Southidceditor/upload.php
 /admin/sql.php
 /admin/sql_test.php
 /admin/sub_upload.php
@@ -693,7 +684,6 @@
 /admin/unloadimg.php
 /admin/up.php
 /admin/Up.php
-/admin/up.php
 /admin/up/upfile.php
 /admin/up/upfile_ok.php
 /admin/Up_BookPic.php
@@ -706,7 +696,6 @@
 /admin/UpdPwd.php
 /admin/upfile.php
 /Admin/Upfile.php
-/admin/upfile.php
 /admin/upfile.phpadmin/upfile_flash.php
 /admin/upfile/upfile.php
 /admin/upfile/upfile_flash.php
@@ -737,7 +726,6 @@
 /admin/upimg_ok.php
 /Admin/Upload.php
 /admin/upload.php
-/admin/upload.php
 /admin/upload.php?picName=st999.php
 /admin/upload/index.php
 /admin/upload/upfile.php
@@ -753,7 +741,6 @@
 /admin/upload_flash.php
 /admin/Upload_Image.php
 /admin/upload_image.php
-/admin/Upload_Image.php
 /admin/upload_inc.php
 /admin/Upload_Pic.php
 /admin/Upload_Product.php
@@ -765,7 +752,6 @@
 /admin/upload22.php
 /admin/upload3.php
 /admin/uploadface.php
-/admin/uploadfaceok.php
 /admin/uploadfaceok.php
 /admin/uploadfile.php
 /admin/uploadfile/admin_login.php
@@ -811,7 +797,6 @@
 /Admin/WebEdit/Upload.php
 /admin/WebEditor/admin_login.php
 /admin/webeditor/admin_login.php
-/admin/WebEditor/admin_login.php
 /admin/WebEditor/db/ewebeditor.mdb
 /admin/webeditor/Upfile_Article.php
 /admin/webmaster.php
@@ -847,7 +832,6 @@
 /admin_bak.php
 /Admin_BatchLink.php
 /admin_batchlink.php
-/Admin_BatchLink.php
 /Admin_BlogData.php
 /admin_body.asa
 /admin_body.php
@@ -935,7 +919,6 @@
 /Admin_SoftCateMenu.php
 /Admin_SoftInfo.php
 /admin_softinfo.php
-/Admin_SoftInfo.php
 /Admin_SoftLink.php
 /Admin_SoftList.php
 /Admin_sql.php
@@ -947,11 +930,8 @@
 /admin_test.php
 /Admin_UpdateSoftNum.php
 /admin_upfile.php
-/admin_upfile.php
 /admin_upload.php
 /admin_uploadF.php
-/admin_uploadfile.php
-/Admin_UploadFile.php
 /admin_uploadfile.php
 /Admin_UploadFile.php
 /Admin_UploadFile_Style.php
@@ -1205,8 +1185,6 @@
 /bbs/Databackup/dvbbs.MDB
 /bbs/diy.php
 /bbs/down_addsoft.php
-/bbs/down_addsoft.php
-/bbs/down_picupfile.php
 /bbs/down_picupfile.php
 /bbs/DV_plus/marry/update.php
 /bbs/elogin.php
@@ -1219,7 +1197,6 @@
 /bbs/saveup.php
 /bbs/servu.php
 /bbs/update.php
-/bbs/upfile.php
 /bbs/upfile.php
 /bbs/upload_soft.php
 /Bbs1
@@ -1309,7 +1286,6 @@
 /CmsEditor/admin_login.php
 /cmseditor/db/ewebeditor.mdb
 /CmsEditor/Upload.php
-/CmsEditor/Upload.php
 /cn/admin/login/login.php
 /cnkdata/dbname.php
 /cnmk.php
@@ -1339,7 +1315,6 @@
 /config.inc
 /config.php
 /Config.php
-/config.php
 /config.php.bak
 /configs.php
 /configuration
@@ -1613,11 +1588,9 @@
 /dir
 /dirs
 /diy.php
-/diy.php
 /DIY2.php
 /diy3.php
 /DIY3.php
-/diy3.php
 /dl
 /dl.php
 /dm.php
@@ -1633,7 +1606,6 @@
 /down/login.php
 /down_addsoft.php
 /down_picupfile.php
-/down_picupload.php
 /down_picupload.php
 /download
 /download.php
@@ -1656,7 +1628,6 @@
 /dvboke.php
 /dvpost_upfile1.php
 /dxxobbs/upload.php
-/dxxobbs/upload.php
 /dzmanager/login.php
 /e
 /EAdmin
@@ -1669,7 +1640,6 @@
 /Edit/Admin_Del.php
 /edit/admin_login.php
 /Edit/admin_login.php
-/edit/admin_login.php
 /edit/Admin_login.php
 /edit/admin_style.php
 /edit/db/%23ewebeditor.php
@@ -1687,7 +1657,6 @@
 /editor/add.php
 /editor/admin_login.php
 /Editor/admin_login.php
-/editor/admin_login.php
 /editor/admin_login.php?
 /Editor/admin_style.php
 /editor/db/ewebeditor.mdb
@@ -1727,7 +1696,6 @@
 /event
 /eWeb/admin_login.php
 /eweb/admin_login.php
-/eWeb/admin_login.php
 /eWeb/db/ewebeditor.mdb
 /ewebedit/db/ewebeditor.mdb
 /ewebedit/ewebeditor.php
@@ -2040,7 +2008,6 @@
 /HX_LOGIN.php
 /hxhack.php
 /Hz@host!.php
-/Hz@host!.php
 /i
 /id
 /id_pass.php
@@ -2060,7 +2027,6 @@
 /Images_Save.php
 /imagez
 /img/
-/img_upfile.php
 /img_upfile.php
 /in_file.php
 /inadmin.php
@@ -2104,7 +2070,6 @@
 /index.html
 /index.php
 /Index.php
-/index.php
 /index.php.bak
 /index_admin
 /index_admin.php
@@ -2136,7 +2101,6 @@
 /inside.php
 /install.php
 /Install.php
-/install.php
 /install/install.php
 /intraAdmin/admin.php
 /intraAdmin/imagemanager.php
@@ -2214,7 +2178,6 @@
 /login.jsp
 /login.php
 /Login.php
-/login.php
 /login.phpx
 /Login/Admin
 /login/admin.php
@@ -2345,7 +2308,6 @@
 /manage/WebEditor/db/ewebeditor.mdb
 /Manage_backup.php
 /manage_backup.php
-/Manage_backup.php
 /Manage_backup.php?action=Backup
 /manage_index
 /manage_index.php
@@ -2466,7 +2428,6 @@
 /NBArticle.php
 /Neeao.php
 /neeao.php
-/Neeao.php
 /neeao.txt
 /neeao_admin.php
 /Neeao_sql_admin.php
@@ -2492,7 +2453,6 @@
 /news
 /news.php
 /news/admin/default.php
-/news/admin/upfile.php
 /news/admin/upfile.php
 /news/admin_index.php
 /news/admin_lm_edit.php
@@ -2771,7 +2731,6 @@
 /showimg.php
 /ShowNews.php
 /shownews.php
-/ShowNews.php
 /ShowOnline.php
 /ShowPost.php
 /ShowReTopic.php
@@ -2989,10 +2948,8 @@
 /Upfile_Articla.php
 /Upfile_Article.php
 /upfile_article.php
-/Upfile_Article.php
 /Upfile_Dialog.php
 /upfile_Dialog.php
-/upfile_flash.php
 /upfile_flash.php
 /Upfile_Image.php
 /Upfile_OrderPic.php
@@ -3005,9 +2962,6 @@
 /Upfile_ProductPic.php
 /upfile_soft.php
 /Upfile_Soft.php
-/upfile_soft.php
-/Upfile_Soft.php
-/upfile_soft.php
 /Upfile_SoftPic.php
 /upfile1.php
 /upfile2.php
@@ -3033,10 +2987,8 @@
 /upload.inc
 /upload.php
 /upload.php?action=upfile
-/upload.php?action=upfile
 /Upload/ewebeditor.php
 /Upload/Loading.php
-/upload/upload.php
 /upload/upload.php
 /upload_add.htm
 /upload_add.html
@@ -3073,7 +3025,6 @@
 /UploadBar.php
 /Uploaddd.php
 /UploadFace.php
-/UploadFace.php
 /uploadfaceok.php
 /uploadfile/admin_login.php
 /Uploadfile1.php
@@ -3087,11 +3038,9 @@
 /uploadphoto.php
 /uploadPic.php
 /uploadpic.php
-/uploadPic.php
 /UploadProductPic.php
 /uploads/include/dialog/select_soft_post.php
 /uploadsave.php
-/UploadSoft/diy.php
 /UploadSoft/diy.php
 /UploadSoft/myup.php
 /UploadX.php
@@ -3134,13 +3083,10 @@
 /user_top.php
 /user_update.php
 /user_upfile.php
-/user_upfile.php
 /useradmin.php
 /userDefault.php?
 /usergroup_0.php
 /UserJoin.php
-/UserList.php
-/userlist.php
 /UserList.php
 /userlist.php
 /UserLogin.php
@@ -3289,6 +3235,5 @@
 /zxly.php
 /zyadmin/login.php
 /zz.php
-/Zzm.php
 /Zzm.php
 /zzz.php

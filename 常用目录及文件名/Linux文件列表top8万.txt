@@ -86668,7 +86668,6 @@ run/dbus/system_bus_socket
 run/user
 run/user/root
 run/user/.root.lock
-run/user/root
 run/user/root/gvfs-burn
 run/user/root/gvfs
 run/user/root/keyring-jcsOOQ
@@ -86678,7 +86677,6 @@ run/user/root/keyring-jcsOOQ/gpg
 run/user/root/keyring-jcsOOQ/control
 run/user/root/dconf
 run/user/root/dconf/user
-run/user/.root.lock
 run/shm
 run/shm/pulse-shm-2102061300
 run/shm/pulse-shm-2431604405

@@ -628,7 +628,6 @@
 /.index.jsp.swp
 /editor/FCKeditor
 /editor/FCKeditor/editor
-/editor
 /editor/ubbeditor
 /weblogin
 /2b.apx
@@ -2549,7 +2548,6 @@
 /images/13041.swf
 /images/2332.swf
 /images/17149.swf
-/images/dropdown.gif
 /admin/z9v8conn.bak
 /manage/z9v8conn.bak
 /ad/conn.bak
@@ -3932,7 +3930,6 @@
 /uu.rar
 /oo.rar
 /nn.rar
-/.svn/entries
 /h.rar
 /bbb.rar
 /%E5%90%88%E5%87%BB.rar

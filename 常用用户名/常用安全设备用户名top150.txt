@@ -1,3 +1,7 @@
+1234
+2800
+666666
+888888
 sangfor
 admin
 Admin
@@ -5,7 +9,6 @@ leadsec
 Audit
 adm
 audit
-adm
 administrator
 lenovo
 root
@@ -42,7 +45,6 @@ guest
 service
 support
 admin1
-888888
 bin
 @=/@
 adminlvjh
@@ -64,8 +66,6 @@ manager
 debug
 cusadmin
 gamez
-default
-1234
 backupadmin
 Cisco
 mlusr
@@ -94,7 +94,6 @@ ADMIN
 informix
 cbs
 e8telnet
-root
 security
 apc
 Root
@@ -107,7 +106,6 @@ azzakhalel
 sync
 super
 Menara
-666666
 ncorrect
 glftpd
 bill
@@ -133,7 +131,6 @@ db2inst1
 PlcmSpIp
 iclock
 diag
-2800
 asp
 telecomadmin
 adminpldt

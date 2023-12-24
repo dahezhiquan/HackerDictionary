@@ -1,6 +1,5 @@
 multipleupload_add.js
 function.js
-multipleupload_add.js
 multiple_productupload_edit.js
 multipleupload_edit.js
 multipleupload.js
@@ -110,7 +109,6 @@ insertcode.js
 row.js
 rows.js
 copy.js
-list.js
 paste.js
 video.js
 source.js
@@ -126,7 +124,6 @@ mark.js
 mask.js
 button.js
 popup.js
-menu.js
 box.js
 combox.js
 dialog.js
@@ -141,7 +138,6 @@ change.js
 textarea.js
 forms.js
 formeditor.js
-scripts.js
 flot.js
 click.js
 app.js

@@ -1,3 +1,14 @@
+0
+1
+2
+3
+4
+5
+7
+11
+30
+11111111
+22222222
 admin
 admin'--
 admin' or ''=''--
@@ -21,22 +32,11 @@ user123
 'or'='or'
 'or''='
 adm
-1
-2
-3
-4
-5
-11
-0
 !root
 $ALOC$
 $system
 1.1
-11111111
-22222222
-30
 4Dgifts
-7
 pobear
 master
 sys
@@ -3487,7 +3487,6 @@ gage
 gail
 gaile
 gal
-gale
 gale
 galen
 galina

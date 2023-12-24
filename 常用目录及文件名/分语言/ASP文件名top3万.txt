@@ -854,8 +854,6 @@
 /admin
 /admin.asp
 /Admin.asp
-/admin.asp
-/Admin.asp
 /admin.aspx
 /admin.htm
 /Admin.htm.asp
@@ -925,7 +923,6 @@
 /admin/admin_stat.asp
 /admin/admin_styles.asp
 /admin/admin_template.asp
-/admin/admin_upfile.asp
 /admin/admin_upfile.asp
 /admin/admin_upload.asp
 /admin/admin_uploadfile.asp
@@ -1125,7 +1122,6 @@
 /admin/login
 /admin/login.asp
 /admin/Login.asp
-/admin/login.asp
 /admin/login.htm.asp
 /admin/login.html
 /admin/login.html.asp
@@ -1254,8 +1250,6 @@
 /admin/UpdPwd.asp
 /admin/upfile.asp
 /Admin/Upfile.asp
-/admin/upfile.asp
-/admin/upfile.asp
 /admin/upfile/upfile.asp
 /admin/upfile/upfile_flash.asp
 /admin/upfile/upload.asp
@@ -1284,7 +1278,6 @@
 /admin/upimg_ok.asp
 /Admin/Upload.asp
 /admin/upload.asp
-/admin/upload.asp
 /admin/upload.asp?picName=st999.asp
 /admin/upload/index.asp
 /admin/upload/upfile.asp
@@ -1311,7 +1304,6 @@
 /admin/upload22.asp
 /admin/upload3.asp
 /admin/uploadface.asp
-/admin/uploadfaceok.asp
 /admin/uploadfaceok.asp
 /admin/uploadfile.asp
 /admin/uploadfile/admin_login.asp
@@ -1418,8 +1410,6 @@
 /Admin_addxl.asp
 /Admin_admanage.asp
 /admin_admin
-/admin_admin.asp
-/Admin_Admin.asp
 /admin_admin.asp
 /Admin_Admin.asp
 /admin_admin.jsp
@@ -1543,7 +1533,6 @@
 /Admin_batch.asp
 /Admin_BatchLink.asp
 /admin_batchlink.asp
-/Admin_BatchLink.asp
 /Admin_bbs.asp
 /Admin_BBsCode.asp
 /Admin_bbsface.asp
@@ -1756,7 +1745,6 @@
 /admin_del.asp
 /admin_delete.asp
 /Admin_delete.asp
-/admin_delete.asp
 /Admin_Deleted.asp
 /Admin_DeleteUploadFile.asp
 /Admin_delitem.asp
@@ -1792,7 +1780,6 @@
 /Admin_eat.asp
 /admin_edit.asp
 /Admin_edit.asp
-/admin_edit.asp
 /Admin_edit_ok.asp
 /Admin_edit_option.asp
 /Admin_edit_poll.asp
@@ -1943,7 +1930,6 @@
 /admin_index.asa
 /admin_index.asp
 /Admin_index.asp
-/admin_index.asp
 /admin_index.jsp
 /admin_index/admin_index.asp
 /admin_index/login.asp
@@ -2078,7 +2064,6 @@
 /Admin_login.asp
 /admin_login.asp
 /Admin_Login.asp
-/admin_login.asp
 /admin_login.jsp
 /admin_login/admin.asp
 /admin_login/login.asp
@@ -2111,7 +2096,6 @@
 /admin_main
 /admin_main.asp
 /Admin_main.asp
-/admin_main.asp
 /Admin_Main1.asp
 /Admin_main-1.asp
 /Admin_Main2.asp
@@ -2511,7 +2495,6 @@
 /admin_soft.jsp
 /Admin_SoftCateMenu.Asp
 /Admin_SoftCateMenu.asp
-/Admin_SoftCateMenu.Asp
 /Admin_SoftCreate.asp
 /Admin_softerr.asp
 /Admin_softerror.asp
@@ -2638,7 +2621,6 @@
 /Admin_updateuser.asp
 /admin_upfile.asp
 /Admin_Upfile.asp
-/admin_upfile.asp
 /Admin_UpImage.asp
 /Admin_UpImage1.asp
 /Admin_Upimg.asp
@@ -2649,7 +2631,6 @@
 /admin_uploadF.asp
 /Admin_UploadFile.asp
 /admin_uploadfile.asp
-/Admin_UploadFile.asp
 /Admin_UploadFile_Clear.asp
 /Admin_UploadFile_Left.asp
 /Admin_UploadFile_Main.asp
@@ -2666,7 +2647,6 @@
 /admin_user
 /admin_user.asp
 /Admin_user.asp
-/admin_user.asp
 /Admin_user_do.asp
 /Admin_userclass.asp
 /Admin_usercss.asp
@@ -2808,7 +2788,6 @@
 /adminadmin
 /adminadmin.asp
 /AdminAdmin.asp
-/adminadmin.asp
 /Adminall.asp
 /Adminall1.asp
 /Adminassort.asp
@@ -2860,11 +2839,9 @@
 /Admincplog.asp
 /admincs.asp
 /Admincs.asp
-/admincs.asp
 /admincxfb.asp
 /adminda.asp
 /Adminda.asp
-/adminda.asp
 /Admindatano.asp
 /Admindefault.asp
 /adminDefault.asp?
@@ -2873,7 +2850,6 @@
 /AdminDelComment.asp
 /admindelete.asp
 /Admindelete.asp
-/admindelete.asp
 /Admindelpic.asp
 /AdminDept.asp
 /AdminDeptchk.asp
@@ -2883,7 +2859,6 @@
 /adminedit
 /adminedit.asp
 /Adminedit.asp
-/adminedit.asp
 /Adminedit2.asp
 /Adminemaildaochu.asp
 /Adminemaildaochuchk.asp
@@ -2933,7 +2908,6 @@
 /administrator
 /administrator.asp
 /Administrator.asp
-/administrator.asp
 /administrator.html
 /administrator/account.asp
 /administrator/account.html
@@ -2965,7 +2939,6 @@
 /adminlogin
 /adminlogin.asp
 /Adminlogin.asp
-/adminlogin.asp
 /admin-login.asp
 /adminLogin/admin_index.asp
 /adminLogin/admin_login.asp
@@ -4873,8 +4846,6 @@
 /bbs/Databackup/dvbbs.MDB
 /bbs/diy.asp
 /bbs/down_addsoft.asp
-/bbs/down_addsoft.asp
-/bbs/down_picupfile.asp
 /bbs/down_picupfile.asp
 /bbs/DV_plus/marry/update.asp
 /bbs/elogin.asp
@@ -4887,7 +4858,6 @@
 /bbs/saveup.asp
 /bbs/servu.asp
 /bbs/update.asp
-/bbs/upfile.asp
 /bbs/upfile.asp
 /bbs/upfiles.asp
 /bbs/upload_soft.asp
@@ -7794,7 +7764,6 @@
 /cmseditor/db/ewebeditor.asp
 /cmseditor/db/ewebeditor.mdb
 /CmsEditor/Upload.asp
-/CmsEditor/Upload.asp
 /cn.asp
 /cn/admin/login/login.asp
 /cn_class.asp
@@ -10194,13 +10163,11 @@
 /dix.asp
 /dixie.asp
 /diy.asp
-/diy.asp
 /diy_img.asp
 /diy_imge.asp
 /DIY2.asp
 /diy3.asp
 /DIY3.asp
-/diy3.asp
 /diyoption.asp
 /diznak.asp
 /dj.asp
@@ -10519,7 +10486,6 @@
 /Down_modi.asp
 /down_picupfile.asp
 /down_picupload.asp
-/down_picupload.asp
 /Down_Save.asp
 /down_url.asp
 /down_url_mp3.asp
@@ -10792,7 +10758,6 @@
 /Dxpt.asp
 /dxtb.asp
 /dxxobbs/upload.asp
-/dxxobbs/upload.asp
 /dxycgs693.asp
 /dy.asp
 /dy_car_fabu.asp
@@ -10976,7 +10941,6 @@
 /Edit/Admin_Del.asp
 /edit/admin_login.asp
 /Edit/admin_login.asp
-/edit/admin_login.asp
 /edit/Admin_login.asp
 /edit/admin_style.asp
 /edit/db/%23ewebeditor.asp
@@ -11802,7 +11766,6 @@
 /eWebEditor
 /ewebeditor.asp
 /eWebEditor.asp
-/ewebeditor.asp
 /ewebeditor.asp?id=x&style=standard
 /eWebEditor.bak.asp
 /ewebeditor.mdb
@@ -15550,7 +15513,6 @@
 /hyzx.asp
 /hz.asp
 /Hz@host!.asp
-/Hz@host!.asp
 /hz52109.asp
 /hzdw.asp
 /hzdz.asp
@@ -15764,7 +15726,6 @@
 /img_silver.asp
 /img_up.asp
 /img_up360.asp
-/img_upfile.asp
 /img_upfile.asp
 /img_upload.asp
 /img_xiangxi.asp
@@ -16097,7 +16058,6 @@
 /indexadmin
 /indexadmin.asp
 /indexAdmin.asp
-/indexadmin.asp
 /indexbak.asp
 /indexbm.asp
 /indexboard.asp
@@ -20195,7 +20155,6 @@
 /manage.asp
 /manage/admin.asp
 /Manage/admin.asp
-/manage/admin.asp
 /Manage/Admin/Login.asp
 /manage/admin_index.asp
 /manage/admin_login.asp
@@ -20228,7 +20187,6 @@
 /manage/login.asp
 /manage/login/login.asp
 /manage/login/Login.asp
-/manage/login/login.asp
 /manage/LogOn.asp
 /manage/upfile.asp
 /Manage/uploadfile/admin_login.asp
@@ -20245,7 +20203,6 @@
 /Manage_Admin.asp
 /Manage_backup.asp
 /manage_backup.asp
-/Manage_backup.asp
 /Manage_backup.asp?action=Backup
 /Manage_banquan.asp
 /Manage_Book.asp
@@ -22295,13 +22252,10 @@
 /neeao_sql_admin.asp
 /Neeao_sql_admin.asp
 /Neeao_sql_Admin.asp
-/Neeao_sql_admin.asp
 /Neeao_sql_Admin2.asp
 /Neeao_SqlIn.asp
 /Neeao_SqlIn.Asp
 /neeao_sqlin.asp
-/Neeao_SqlIn.Asp
-/Neeao_SqlIn.asp
 /Neeao_SqlIn2.asp
 /needed.asp
 /neel.asp
@@ -22482,7 +22436,6 @@
 /news
 /news.asp
 /news/admin/default.asp
-/news/admin/upfile.asp
 /news/admin/upfile.asp
 /news/admin_index.asp
 /news/admin_lm_edit.asp
@@ -27087,7 +27040,6 @@
 /select_dept.asp
 /Select_feedback.asp
 /select_feedback.asp
-/Select_feedback.asp
 /select_images.asp
 /select_images_post.asp
 /select_media.asp
@@ -31145,7 +31097,6 @@
 /Upfile_Articla.asp
 /Upfile_Article.asp
 /upfile_article.asp
-/Upfile_Article.asp
 /upfile_class.asp
 /upfile_class_fri.asp
 /Upfile_class_other.asp
@@ -31153,13 +31104,10 @@
 /upfile_class1.asp
 /Upfile_Dialog.asp
 /upfile_Dialog.asp
-/Upfile_Dialog.asp
-/upfile_Dialog.asp
 /Upfile_Dialog1.asp
 /upfile_eweb.asp
 /upfile_flash.asp
 /Upfile_flash.asp
-/upfile_flash.asp
 /upfile_flash2.asp
 /Upfile_Image.asp
 /Upfile_OrderPic.asp
@@ -31176,7 +31124,6 @@
 /Upfile_ProductPic.asp
 /upfile_soft.asp
 /Upfile_Soft.asp
-/upfile_soft.asp
 /Upfile_SoftPic.asp
 /upfile1.asp
 /upfile2.asp
@@ -31218,13 +31165,11 @@
 /uplianjie.asp
 /upload.asp
 /upload.asp?action=upfile
-/upload.asp?action=upfile
 /upload.htm
 /upload.html
 /upload.inc
 /Upload/ewebeditor.asp
 /Upload/Loading.asp
-/upload/upload.asp
 /upload/upload.asp
 /upload_add.asp
 /upload_add.htm
@@ -31232,7 +31177,6 @@
 /Upload_AdPic.asp
 /Upload_Article.asp
 /upload_article.asp
-/Upload_Article.asp
 /upLoad_bm1.asp
 /upload_browse.asp
 /upload_c.asp
@@ -31270,7 +31214,6 @@
 /Upload_Soft.asp
 /Upload_SoftPic.asp
 /upload_softpic.asp
-/Upload_SoftPic.asp
 /Upload_user.asp
 /Upload_w.asp
 /upload_watermark.asp
@@ -31300,7 +31243,6 @@
 /UploadDocOk.asp
 /UploadFace.asp
 /uploadface.asp
-/UploadFace.asp
 /uploadfaceok.asp
 /uploadfile.asp
 /uploadfile/admin_login.asp
@@ -31340,7 +31282,6 @@
 /uploadpic.asp
 /uploadPic.asp
 /UploadPic.asp
-/uploadPic.asp
 /uploadpic_xianchegirl.asp
 /UploadProductPic.asp
 /uploadsave.asp
@@ -31350,7 +31291,6 @@
 /uploadsaveL.asp
 /UploadSetup.asp
 /UploadSoft.asp
-/UploadSoft/diy.asp
 /UploadSoft/diy.asp
 /UploadSoft/myup.asp
 /UploadSoftPic.asp
@@ -31677,7 +31617,6 @@
 /user_Ture_liuyan.asp
 /User_Upd.asp
 /user_update.asp
-/user_upfile.asp
 /user_upfile.asp
 /User_Upload.asp
 /user_url.asp
@@ -32764,7 +32703,6 @@
 /webadmin
 /webadmin.asp
 /webAdmin.asp
-/webadmin.asp
 /WebAdmin/admin.asp
 /WebAdmin/eWebEditor/Admin_Login.asp
 /WebAdmin/login.asp
@@ -34791,7 +34729,6 @@
 /zzj2223446.asp
 /zzjg.asp
 /zzly.asp
-/Zzm.asp
 /Zzm.asp
 /zznc.asp
 /zzwq.asp
